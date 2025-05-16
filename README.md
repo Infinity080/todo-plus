@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an overengineered to-do app written in Python with a Tkinter GUI, integrated with Haskell for word suggestions and Prolog for sorting.
+This is an overengineered to-do app written in Python with a Tkinter GUI, simple sqlite3 database in memory, integrated with Haskell for word suggestions and Prolog for sorting.
 
 ---
 
