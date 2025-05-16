@@ -1,0 +1,6 @@
+tasks.db
+dist-newstyle/
+env/
+venv/
+ENV/
+.venv/
